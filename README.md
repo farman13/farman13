@@ -9,7 +9,7 @@
   <img align="right" height="300" width="400" alt="GIF" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif">
 </a>
 
-- 🌱 I’m currently diving deeper into **Fullstack Blockchain Development,** with a focus on building dApps across EVM-compatible chains
+- 🌱 I’m currently diving deeper into **Fullstack Blockchain Development,** with a focus on building dApps across EVM-compatible chains.
 
 - 💬 Ask me about **Blockchain indexing, Backend (Node.js), React.js, MongoDB**
 
@@ -33,14 +33,11 @@
 
 # 📊 GitHub Stats:
 ![](https://github-readme-stats.vercel.app/api?username=farman13&theme=dark&hide_border=false&include_all_commits=true&count_private=false)<br/>
-![](https://nirzak-streak-stats.vercel.app/?user=farman13&theme=dark&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=farman13&theme=dark&hide_border=false&include_all_commits=true&count_private=false&layout=compact)
+![](https://nirzak-streak-stats.vercel.app/?user=farman13&theme=dark&hide_border=false)<br/>
 
 ## 🏆 GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=farman13&theme=radical&no-frame=false&no-bg=false&margin-w=4)
-
-### ✍️ Random Dev Quote
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
 
 ### 🔝 Top Contributed Repo
 ![](https://github-contributor-stats.vercel.app/api?username=farman13&limit=5&theme=dark&combine_all_yearly_contributions=true)
