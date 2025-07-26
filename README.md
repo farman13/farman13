@@ -9,13 +9,13 @@
   <img align="right" height="300" width="400" alt="GIF" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif">
 </a>
 
-- 🌱 I’m currently diving deeper into **Fullstack Blockchain Development,** with a focus on building dApps across EVM-compatible chains.
+- 🌱 I’m currently diving deeper into **Fullstack Blockchain Development,** with a focus on building dApps across Solana and EVM chains.
 
 - 💬 Ask me about **Blockchain indexing, Backend (Node.js), React.js, MongoDB**
 
 - 📫 How to reach me: **farman327440@gmail.com**
 
-- 📄 Know more about my work: [My Resume](https://drive.google.com/file/d/1YTTlrixEN3gw9OGq5iCIc70tPXeC_ZKP/view)
+- 📄 Know more about my work: [My Resume](https://drive.google.com/file/d/1_ZxfQaQoSMoB61dozqAkW2iGz3vo8dR1/view?usp=sharing)
 
 
 <br/>
