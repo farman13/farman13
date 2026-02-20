@@ -31,6 +31,11 @@
   <img src="https://github.com/farman13/farman13/blob/output/github-contribution-grid-snake.svg" alt="Snake animation" />
 </p> -->
 
+
+<p align="center">
+  <img height="280em" src="https://github-readme-activity-graph.vercel.app/graph?username=farman13&theme=nightowl&radius=10" alt="Adityaz23's Activity Graph" />
+</p>
+
 # 📊 GitHub Stats:
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=farman13&theme=dark&hide_border=false&include_all_commits=true&count_private=false&layout=compact)
 ![](https://github-readme-stats.vercel.app/api?username=farman13&theme=dark&hide_border=false&include_all_commits=true&count_private=false)<br/>
